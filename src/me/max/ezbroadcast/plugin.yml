@@ -1,0 +1,11 @@
+name: EzBroadcast
+version: 1.0
+author: Max
+main: me.max.ezbroadcast.Main
+commands:
+   ezbroadcast:
+      aliases: [ezbc]
+      description: Main command of EzBroadcast
+      usage: Usage /EzBroadcast
+      permission: EzBroadcast.Main
+      permission-message: You don't have permission to do this. Node EzBroadcast.Main
